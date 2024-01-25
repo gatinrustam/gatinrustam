@@ -7,3 +7,7 @@
 - [рендеринг древовидного меню и рекурсивное хождение по дереву на React](#)
 - [реализация своего Redux](#)
 - а это [коммерческий проект](https://github.com/gatinrustam/telo) для оценки HTML и CSS в котором я делаю анимаю по скроллу с использованием anime.js
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gatinrustam&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gatinrustam&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gatinrustam&theme=default)
