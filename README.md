@@ -4,8 +4,8 @@
 
 Пара примеров моего кода: 
 - своя реализация [Wordle на React](https://github.com/gatinrustam/wordle)
-- рекурсивный обход [вложенного меню на React](https://gatinrustam.github.io/react-tree-menu/)
-- [реализация своего Redux](#)
+- рендер и рекурсивный обход [вложенного меню на React](https://gatinrustam.github.io/react-tree-menu/)
+- кастомная реализация [Redux и React-Redux](https://github.com/gatinrustam/custom-react-redux)
 - а это [коммерческий проект](https://github.com/gatinrustam/telo) для оценки HTML и CSS в котором я делаю анимаю по скроллу с использованием anime.js
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gatinrustam&theme=default)
